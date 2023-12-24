@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-![required_features.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/62535b66-512b-4bb8-a159-2b13537fc9e6/10e5e597-3a13-4a3b-89b3-ae63cd763240/required_features.gif)
+![required_features.gif](required_features.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
